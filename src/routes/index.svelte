@@ -1,6 +1,4 @@
-
 <script>
-	// https://www.youtube.com/watch?v=Pp40Ejkk2Wc&t=33s&ab_channel=edynurcahyo
 	import { GoogleAuth } from '@beyonk/svelte-social-auth'
 	let data
 </script>
